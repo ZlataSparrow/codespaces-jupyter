@@ -1,7 +1,37 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# 📘 Data Analysis Practice with Békés & Kézdi
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+This repository contains my hands-on data analysis and econometrics practice inspired by the textbook **_Data Analysis for Business, Economics, and Policy_** by Gábor Békés and Gábor Kézdi.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+As a data scientist with a background in applied economics and consulting, I’m using this repo to strengthen and document my workflow in:
+-  Data wrangling & cleaning
+-  Exploratory data analysis (EDA)
+-  Regression & modeling
+-  Causal inference & experimentation
+-  Forecasting & prediction
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## 🧪 What's Inside
+
+- `notebooks/`: Jupyter notebooks for each major topic/chapter
+- `data/`: Synthetic or real datasets used in exercises
+- `summary_notes/`: My concise notes & cheat sheets
+- `utils/`: Helper functions (if any)
+
+## 📦 Tech Stack
+
+- Python: Pandas, NumPy, statsmodels, matplotlib, seaborn, scikit-learn, PyMC, linearmodels, patsy, scipy, and others.
+- Jupyter Notebooks
+- GitHub Codespaces
+
+## Goals:
+
+- Practice core statistical methods and modeling techniques
+- Reinforce key data science workflows
+- Build a searchable, documented study resource
+- Translate theory into practical, reproducible code
+
+## 🧠 Reference
+
+_Békés & Kézdi (2021). Data Analysis for Business, Economics, and Policy._
+
+---
+ _Maintained by [Zlata Vorobeva](https://github.com/zlatavorobeva)_
