@@ -9,14 +9,14 @@ As a data scientist with a background in applied economics and consulting, I’m
 -  Causal inference & experimentation
 -  Forecasting & prediction
 
-## 🧪 What's Inside
+## What's Inside
 
 - `notebooks/`: Jupyter notebooks for each major topic/chapter
 - `data/`: Synthetic or real datasets used in exercises
 - `summary_notes/`: My concise notes & cheat sheets
 - `utils/`: Helper functions (if any)
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Python: Pandas, NumPy, statsmodels, matplotlib, seaborn, scikit-learn, PyMC, linearmodels, patsy, scipy, and others.
 - Jupyter Notebooks
@@ -29,7 +29,7 @@ As a data scientist with a background in applied economics and consulting, I’m
 - Build a searchable, documented study resource
 - Translate theory into practical, reproducible code
 
-## 🧠 Reference
+## Reference
 
 _Békés & Kézdi (2021). Data Analysis for Business, Economics, and Policy._
 
