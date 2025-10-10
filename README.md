@@ -34,4 +34,4 @@ As a data scientist with a background in applied economics and consulting, I’m
 _Békés & Kézdi (2021). Data Analysis for Business, Economics, and Policy._
 
 ---
-Maintained by me [Zlata Vorobeva](https://github.com/zlatavorobeva](https://github.com/ZlataSparrow))
+Maintained by [Zlata Vorobeva](https://github.com/ZlataSparrow) 🐙
